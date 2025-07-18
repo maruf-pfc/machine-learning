@@ -1,5 +1,4 @@
 # Lab Exercise
 
-- Find the best K based on your experiments. To do this, take 10 accuracy for each K and calculate their average performance for finding the best K.
-- Conduct an experiment to find the best training and test set ratio in classifying Iris flowers.
-- Conduct an experiment to find the best training and test set ratio in classifying classes of your self created dataset.
+- Implement logistic regression from scratch (i.e., without using any machine learning library) and compare the performance with the one of scikit-learn.
+- Evaluate the model performance using Sepal Length vs Petal Width only.
